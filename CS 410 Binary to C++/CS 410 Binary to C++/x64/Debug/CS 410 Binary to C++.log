@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\domdr\OneDrive\VisualStudios\CS-405-10960-M01_Secure_Coding\CS 410 Binary to C++\CS 410 Binary to C++\Source.cpp(15,31): warning C4305: 'initializing': truncation from 'double' to 'float'
+  CS 410 Binary to C++.vcxproj -> C:\Users\domdr\OneDrive\VisualStudios\CS-405-10960-M01_Secure_Coding\CS 410 Binary to C++\x64\Debug\CS 410 Binary to C++.exe

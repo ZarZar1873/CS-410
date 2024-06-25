@@ -1,0 +1,3 @@
+﻿  ProjectOne.cpp
+C:\Users\domdr\OneDrive\VisualStudios\CS-410_Software_Reverse_Engineering\ProjectOne\ProjectOne\ProjectOne.cpp(99,9): warning C4804: '<': unsafe use of type 'bool' in operation
+  ProjectOne.vcxproj -> C:\Users\domdr\OneDrive\VisualStudios\CS-410_Software_Reverse_Engineering\ProjectOne\x64\Debug\ProjectOne.exe
